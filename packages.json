@@ -4,6 +4,6 @@
     "url": "https://github.com/hadesllm/moirais",
     "subdir": "r-package/moirais",
     "branch": "main",
-    "description": "Methods for Observational Inference and Robust Analysis of Interventions in Scientific Experimentation — dual-language (Python + R) toolkit hosting the MRM (McNamara-Ruhela-Medina) framework."
+    "description": "MOIRAIS: Methods for Observational Inference and Robust Analysis of Interventions in Scientific Experimentation - dual-language (Python + R) toolkit hosting the MRM (McNamara-Ruhela-Medina) framework."
   }
 ]
