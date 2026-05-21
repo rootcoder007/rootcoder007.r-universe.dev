@@ -4,13 +4,13 @@
     "url": "https://github.com/hadesllm/morie",
     "subdir": "r-package/morie",
     "branch": "main",
-    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation - dual-language (Python + R) toolkit hosting the MRM (McNamara-Ruhela-Medina) framework. Renamed from MOIRAIS in v0.1.3. Software DOI 10.5281/zenodo.20111233."
+    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation - dual-language (Python + R) toolkit hosting the MRM (McNamara-Ruhela-Medina) framework. Renamed from MOIRAIS to MORIE in 2026-05-11. Software DOI 10.5281/zenodo.20111233."
   },
   {
     "package": "moirais",
     "url": "https://github.com/hadesllm/morie",
     "subdir": "r-package/moirais",
     "branch": "main",
-    "description": "Deprecated alias for the morie package. The toolkit was renamed from MOIRAIS to MORIE in v0.1.3; this shim depends on morie and exists only for backwards compatibility."
+    "description": "Deprecated alias for the morie package. The toolkit was renamed from MOIRAIS to MORIE in 2026-05-11; this shim depends on morie and exists only for backwards compatibility."
   }
 ]
