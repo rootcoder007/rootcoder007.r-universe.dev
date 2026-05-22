@@ -4,6 +4,6 @@
     "url": "https://github.com/hadesllm/morie",
     "subdir": "r-package/morie",
     "branch": "main",
-    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation - dual-language (Python + R) toolkit hosting the MRM (McNamara-Ruhela-Medina) framework. Software DOI 10.5281/zenodo.20111233."
+    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation - dual-language (Python + R) toolkit hosting the MRM (Multilevel Reconciliation Methodology) framework. Software DOI 10.5281/zenodo.20111233."
   }
 ]
