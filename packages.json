@@ -1,9 +1,21 @@
 [
   {
     "package": "morie",
-    "url": "https://github.com/hadesllm/morie",
+    "url": "https://github.com/rootcoder007/morie",
     "subdir": "r-package/morie",
     "branch": "main",
-    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation - dual-language (Python + R) toolkit hosting the MRM (Multilevel Reconciliation Methodology) framework. Software DOI 10.5281/zenodo.20111233."
+    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation -- dual-language (Python + R) toolkit hosting the MRM (Multilevel Reconciliation Methodology) framework."
+  },
+  {
+    "package": "rmorie",
+    "url": "https://github.com/rootcoder007/rmorie",
+    "branch": "main",
+    "description": "rmorie: R-only lite version of MORIE. CRAN+rOpenSci focused; strict-business carve with no Python dependencies, slim inst/extdata, security-hardened CI."
+  },
+  {
+    "package": "rmoriedata",
+    "url": "https://github.com/rootcoder007/rmoriedata",
+    "branch": "main",
+    "description": "rmoriedata: Bundled open-data fixtures for rmorie. Data-only companion package; no exported functions."
   }
 ]
