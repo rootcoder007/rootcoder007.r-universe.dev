@@ -10,11 +10,5 @@
     "url": "https://github.com/rootcoder007/rmoriedata",
     "branch": "main",
     "description": "rmoriedata: Bundled open-data fixtures for rmorie. Data-only companion package; no exported functions."
-  },
-  {
-    "package": "rmorielite",
-    "url": "https://github.com/rootcoder007/rmorielite",
-    "branch": "main",
-    "description": "rmorielite: R-only lite carve of MORIE scoped to data retrieval (Ontario OTIS + federal SIU). Polite-by-default fetching, manifest-aware caching, schema-validated ingestion."
   }
 ]
