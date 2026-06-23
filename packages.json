@@ -1,12 +1,5 @@
 [
   {
-    "package": "morie",
-    "url": "https://github.com/rootcoder007/morie",
-    "subdir": "r-package/morie",
-    "branch": "main",
-    "description": "MORIE Toolkit: Multi-domain Open Research and Inferential Estimation -- dual-language (Python + R) toolkit hosting the MRM (Multilevel Reconciliation Methodology) framework."
-  },
-  {
     "package": "rmorie",
     "url": "https://github.com/rootcoder007/rmorie",
     "branch": "main",
