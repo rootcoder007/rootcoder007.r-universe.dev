@@ -16,5 +16,12 @@
     "url": "https://github.com/rootcoder007/rmorielite",
     "branch": "main",
     "description": "rmorielite: Focused interface for carceral, policing, and public-health open-data retrieval and analysis. Re-exports rmorie's domain API (no duplication, always in sync) plus polite cache-aware fetchers."
+  },
+  {
+    "package": "moriebricklayer",
+    "url": "https://github.com/rootcoder007/morie-bricklayer",
+    "branch": "main",
+    "subdir": "bricklayer",
+    "description": "moriebricklayer: Reproducible data bundles with CKAN resolution, SHA256 + Wayback provenance, schema validation, and synthetic fallback."
   }
 ]
