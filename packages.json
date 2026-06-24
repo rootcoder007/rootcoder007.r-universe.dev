@@ -10,5 +10,11 @@
     "url": "https://github.com/rootcoder007/rmoriedata",
     "branch": "main",
     "description": "rmoriedata: Bundled open-data fixtures for rmorie. Data-only companion package; no exported functions."
+  },
+  {
+    "package": "rmorielite",
+    "url": "https://github.com/rootcoder007/rmorielite",
+    "branch": "main",
+    "description": "rmorielite: Focused interface for carceral, policing, and public-health open-data retrieval and analysis. Re-exports rmorie's domain API (no duplication, always in sync) plus polite cache-aware fetchers."
   }
 ]
