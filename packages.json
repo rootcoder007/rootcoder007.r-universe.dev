@@ -15,7 +15,6 @@
     "package": "rmoriebricklayer",
     "url": "https://github.com/rootcoder007/rmorie-bricklayer",
     "branch": "main",
-    "subdir": "bricklayer",
     "description": "rmoriebricklayer: Reproducible data bundles with CKAN resolution, SHA256 + Wayback provenance, schema validation, and synthetic fallback."
   }
 ]
