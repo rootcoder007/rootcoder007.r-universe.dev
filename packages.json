@@ -16,5 +16,12 @@
     "url": "https://github.com/rootcoder007/rmorie-bricklayer",
     "branch": "main",
     "description": "rmoriebricklayer: Reproducible data bundles with CKAN resolution, SHA256 + Wayback provenance, schema validation, and synthetic fallback."
+  },
+  {
+    "package": "noqtis",
+    "url": "https://github.com/rootcoder007/noqtis",
+    "subdir": "bindings/r",
+    "branch": "*release",
+    "description": "noqtis: post-quantum signatures (ML-DSA, SLH-DSA), ML-KEM and HQC, SHA-2/SHA-3 and sealed file capsules, from the NOQTIS C11 library; built from each GitHub release."
   }
 ]
