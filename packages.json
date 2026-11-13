@@ -23,5 +23,11 @@
     "subdir": "bindings/r",
     "branch": "main",
     "description": "noqtis: post-quantum signatures (ML-DSA, SLH-DSA), ML-KEM and HQC, SHA-2/SHA-3 and sealed file capsules, from the NOQTIS C11 library; built from main until 0.1.4 is released."
+  },
+  {
+    "package": "crimlab",
+    "url": "https://github.com/rootcoder007/crimlab",
+    "branch": "main",
+    "description": "crimlab: statistical methods for courts, corrections, policing, forensics and sociolegal research, computed in a compiled C++17 core."
   }
 ]
